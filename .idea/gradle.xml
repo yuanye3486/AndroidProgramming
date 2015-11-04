@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01_FirstApp_GeoQuiz" />
+            <option value="$PROJECT_DIR$/02_MVC_GeoQuiz" />
+            <option value="$PROJECT_DIR$/03_ActivityLifecycle_GeoQuiz" />
+            <option value="$PROJECT_DIR$/05_SecondActivity_GeoQuiz" />
+            <option value="$PROJECT_DIR$/06_AndroidVersions_GeoQuiz" />
+            <option value="$PROJECT_DIR$/07_UIFragments_CriminalIntent" />
+            <option value="$PROJECT_DIR$/08_LayoutsAndWidgets_CriminalIntent" />
+            <option value="$PROJECT_DIR$/09_ListView_CriminalIntent" />
+            <option value="$PROJECT_DIR$/10_FragmentArguments_CriminalIntent" />
+            <option value="$PROJECT_DIR$/12_DateDialog_CriminalIntent" />
+            <option value="$PROJECT_DIR$/13_Audio_HelloMoon" />
+            <option value="$PROJECT_DIR$/14_FragmentRotation_HelloMoon" />
+            <option value="$PROJECT_DIR$/15_Localization_HelloMoon" />
+            <option value="$PROJECT_DIR$/16_Menus1_CriminalIntent" />
+            <option value="$PROJECT_DIR$/17_FileIO_CriminalIntent" />
+            <option value="$PROJECT_DIR$/18_Menus2_CriminalIntent" />
+            <option value="$PROJECT_DIR$/19_CameraPreview_CriminalIntent" />
+            <option value="$PROJECT_DIR$/20_CameraImage_CriminalIntent" />
+            <option value="$PROJECT_DIR$/21_ImplicitIntents_CriminalIntent" />
+            <option value="$PROJECT_DIR$/22_FragmentComposition_CriminalIntent" />
+            <option value="$PROJECT_DIR$/23_NerdLauncher_NerdLauncher" />
+            <option value="$PROJECT_DIR$/24_UIThemes_RemoteControl" />
+            <option value="$PROJECT_DIR$/25_XMLDrawables_RemoteControl" />
+            <option value="$PROJECT_DIR$/26_HTTPBackgroundTasks_PhotoGallery" />
+            <option value="$PROJECT_DIR$/27_Handlers_PhotoGallery" />
+            <option value="$PROJECT_DIR$/28_Search_PhotoGallery" />
+            <option value="$PROJECT_DIR$/29_IntentServices_PhotoGallery" />
+            <option value="$PROJECT_DIR$/30_BroadcastIntents_PhotoGallery" />
+            <option value="$PROJECT_DIR$/31_WebView_PhotoGallery" />
+            <option value="$PROJECT_DIR$/32_TouchEvents_DragAndDraw" />
+            <option value="$PROJECT_DIR$/33_Location_RunTracker" />
+            <option value="$PROJECT_DIR$/34_SQLite_RunTracker" />
+            <option value="$PROJECT_DIR$/35_Loaders_RunTracker" />
+            <option value="$PROJECT_DIR$/36_Maps_RunTracker" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
